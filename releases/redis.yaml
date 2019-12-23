@@ -13,7 +13,7 @@ metadata:
 spec:
   releaseName: redis
   chart:
-    repository: https://kubernetes-charts.storage.googleapis.com/
+    repository: https://kubernetes-charts.storage.googleapis.com
     name: redis
     version: 5.1.3
   valueFileSecrets:
